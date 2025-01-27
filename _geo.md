@@ -35,7 +35,7 @@ Wind drastically changes the shape of the coast. Waves are created by wind blowi
 Only when all three factors occur together large waves are produced. 
 
 
-![](geo_waveDiagram.png)
+![Wave diagram](https://i0.wp.com/thescienceandmathszone.com/wp-content/uploads/2020/11/IMG_0564.jpg?fit=2052%2C887&ssl=1)
 
 *Wave height* – Trough to Crest in height.
 *Wavelength* – Length between crests
