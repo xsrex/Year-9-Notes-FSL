@@ -11,7 +11,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 |English|-|-|
 |Maths|-|-|
 |Music|-> Setwork| No |
-|Geography|-> Extreme weather| No |
+|Geography|-> Precipitation types| No |
 |History|Not started| No |
 |RE|-> Kosher| No|
 
@@ -28,3 +28,5 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 - Mon-27-01 20:26 - _geo.md modified.
 - Mon-27-01 20:31 - _his.md created.
 - Mon-27-01 20:36 - README.md modified.
+- Mon-27-01 21:04 - _geo.md modified.
+- Mon-27-01 21:06 - README.md modified to realign note progress.
