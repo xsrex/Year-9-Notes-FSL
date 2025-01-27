@@ -10,7 +10,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 ### Subjects not noted:
 - Art (no exam)
 - English (soft skill)
-- Maths (soft skill although some formulaes may be notes)
+- Maths (soft skill although some formulas may be notes)
 - Music (setwork may be only things noted)
 
 ## Updates
