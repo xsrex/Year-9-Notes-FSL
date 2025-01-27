@@ -405,3 +405,34 @@ The weather an airmass brings is determined by the region and the surface it mov
 
 The most affecting weather in the UK is the polar maritime.
 
+### CASE STUDY - Storm Emma, British Isles, Feb-28 - Mar-02 2018
+
+**Primary Effects - Impacts caused directly by the storm**
+- 15cm - 20cm of snow over the course of 3 days
+- Storm Emma goes over 70mph
+- Hundreds are stranded for 36 hours (1.5 days)
+
+**Secondary Effects - Impacts caused after the storm**
+- Gas deficit warning
+- Trains were stranded overnight
+
+**Responses - Help effective immediately during the storm**
+- Greggs' delivery driver hands cakes to stranded people
+- Taxis offer to shop and retrieve medicine for the elderly
+- Red Cross issues blankets and pillows to homeless people
+
+### How to write an answer comparing two different climates
+
+#### Data
+|Month|Max temp.|Min temp.|Days of air frost|Sunshine hours|Rainfall|Days of rainfall >= 1mm|
+|:--|:-:|:-:|:-:|:-:|:-:|:-:|
+|Lisburn weather station|12.64|5.91|33.09|1345.24|917.41|156.99|
+|UK Ann. [Tot./Avg.]|12.4|5.3|54.6|1372.8|1154|156.2|
+
+#### Answer
+**Try and include all elements of the data when writing your answer:**
+
+"*Firstly, Lisburn has a negligible difference of 0.24°C when it comes to the minimum temperature and 0.61°C with the maximum. Lisburn has considerably less days of air frost, about 21.51 days. The largest difference is the amount of rainfall. Lisburn has about 917.41mm of rainfall, while the UK has 1154mm. The difference for sunshine hours and days of rainfall is also  somewhat negligible, 27.56 hours less of sunshine and .79 more days of rainfall.*"
+
+When it comes to most describing questions, **use data and include as many numbers as possible (where it adds to the info required)**
+
