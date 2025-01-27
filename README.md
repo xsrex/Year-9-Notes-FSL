@@ -15,5 +15,5 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 
 ## Updates
 
-- Mon-27-01 18:59 - Birth of project
-- 
+- Mon-27-01 18:53 - Birth of project
+- Mon-27-01 18:59 - _geo.md created.
