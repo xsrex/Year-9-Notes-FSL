@@ -12,3 +12,8 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 - English (soft skill)
 - Maths (soft skill although some formulaes may be notes)
 - Music (setwork may be only things noted)
+
+## Updates
+
+- Mon-27-01 18:59 - Birth of project
+- 
