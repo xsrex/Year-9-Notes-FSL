@@ -403,5 +403,5 @@ The weather an airmass brings is determined by the region and the surface it mov
 | Polar Continental | Northern Europe | cold & dry |
 | Arctic Maritime | Arctic Ocean | cold & wet |
 
-The most affecting weather in the UK is the polar maritime
+The most affecting weather in the UK is the polar maritime.
 
