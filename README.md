@@ -5,9 +5,17 @@
 Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 / [spring/summer] 2025. Enjoy!
 
 ### Current Subjects:
-- Geography - Up to **Extreme Weather** (not including.)
+|Subject|Notes|Complete?|
+|:------|:----|:-------:|
+|Art|-|-|
+|English|-|-|
+|Maths|-|-|
+|Music|-> Setwork| No |
+|Geography|-> Extreme weather| No |
+|History|Not started| No |
+|RE|-> Kosher| No|
 
-### Subjects not noted:
+### Subjects not required to be taken down:
 - Art (no exam)
 - English (soft skill)
 - Maths (soft skill although some formulas may be notes)
@@ -19,3 +27,4 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 - Mon-27-01 18:59 - _geo.md created.
 - Mon-27-01 20:26 - _geo.md modified.
 - Mon-27-01 20:31 - _his.md created.
+- Mon-27-01 20:36 - README.md modified.
