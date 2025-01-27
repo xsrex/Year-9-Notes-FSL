@@ -12,17 +12,29 @@ A coast is the zone between land and sea which can be an area or a line.
 
 
 Coastlines are important because:
+
 **1.	Residency**
+
 &nbsp;&nbsp;&nbsp;&nbsp;a.	Water is an important part of life. Easy access to water usually meant that more of the population would be there.
+
 **2. Fishing**
+
 &nbsp;&nbsp;&nbsp;&nbsp;a.	This gives straight-forward access to food.
+
 **3.	Trading**
+
 &nbsp;&nbsp;&nbsp;&nbsp;a.	Trading becomes a lot easier with access to the ocean from the lack of obstacles.
+
 **4.	Tourism**
+
 &nbsp;&nbsp;&nbsp;&nbsp;a.	Beaches are popular in the tourism industry.
+
 **5.	Agriculture**
+
 &nbsp;&nbsp;&nbsp;&nbsp;a.	Simple access to water also means it is easier to take care of animals.
+
 **6.	Wildlife**
+
 &nbsp;&nbsp;&nbsp;&nbsp;a.	Like agriculture and residency, being in a close vicinity to water helps to survive.
 
 <br>
@@ -52,14 +64,23 @@ When the backwash is stronger, sand is eroded from the beach and when the swash 
 There are three things that are required to create new landforms. (Deposition is not shown because, well, the water loses energy and puts the rock/load down.)
 #### Erosion
 There are four main ways in which water can erode the coastline:
+
 1.	Hydraulic action
+   
 &nbsp;&nbsp;&nbsp;&nbsp;a.	Water is forced into cracks; air compresses and the cracks widen.
-2.	Abrasion
+
+2. 	Abrasion
+   
 &nbsp;&nbsp;&nbsp;&nbsp;a.	Pebbles transported by waves act like sandpaper causing it to breakdown.
-3.	Attrition
+
+3. 	Attritiom
+	
 &nbsp;&nbsp;&nbsp;&nbsp;a.	Rock transported in water collide and break into small fragments. This makes rocks smaller and rounder.
+
 4.	Solution
+
 &nbsp;&nbsp;&nbsp;&nbsp;a.	Weak acids in salt water create chemical reactions which dissolve and erode rock such as limestone and chalk.
+
 The larger the rock, the more energy it takes to transport it (Anything above 2mm in size is considered gravel). 
 
 #### Transportation
