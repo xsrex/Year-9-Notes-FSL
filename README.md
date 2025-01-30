@@ -35,5 +35,6 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 - Mon-27-01 21:04 - _geo.md modified.
 - Mon-27-01 21:06 - README.md modified to realign note progress.
 - Thu-30-01 19:11 - _geo.md modified.
-- Kev - Thu-30-01 19:16 - Changed update format.\
+- Kev - Thu-30-01 19:16 - Changed update format.
 - Kev - Thu-30-01 19:17 - _rel.md created.
+- Kev = Thu-30-01 19:18 - _he-.md created.
