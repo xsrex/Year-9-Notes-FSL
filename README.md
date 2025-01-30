@@ -11,7 +11,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 |English|-|-|
 |Maths|-|-|
 |Music|-> Setwork| No |
-|Geography|-> Precipitation types| No |
+|Geography|-> Relief rainfall| No |
 |History|Not started| No |
 |RE|-> Kosher| No|
 
@@ -21,7 +21,11 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 - Maths (soft skill although some formulas may be notes)
 - Music (setwork may be only things noted)
 
+## Update format
+- [person (kevin=kev, holly=hol, richard=ric, annalise=ann)] - [Day]-[Date]-[Month] - [update]
+
 ## Updates
+***2025***
 
 - Mon-27-01 18:53 - Birth of project
 - Mon-27-01 18:59 - _geo.md created.
@@ -30,3 +34,5 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 - Mon-27-01 20:36 - README.md modified.
 - Mon-27-01 21:04 - _geo.md modified.
 - Mon-27-01 21:06 - README.md modified to realign note progress.
+- Thu-30-01 19:11 - _geo.md modified.
+- Kev - Thu-30-01 19:16 - Changed update format.
