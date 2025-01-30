@@ -436,3 +436,16 @@ The most affecting weather in the UK is the polar maritime.
 
 When it comes to most describing questions, **use data and include as many numbers as possible (where it adds to the info required)**
 
+### What causes it to rain?
+
+**Precipitation** (e.g. rain, snow, sleet, hail) happens when air is forced to rise and cools. When it gets cold enough, the water vapour condenses to form water droplets in a cloud. If the water gets too heavy to continue 'floating' in the sky, it will fall as precipitation.
+
+There are three forms of air cooling:
+- Relief rainfall
+- Convectional rainfall
+- Frontal rainfall
+
+#### Relief rainfall
+
+
+
