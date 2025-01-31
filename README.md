@@ -14,6 +14,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 |Geography|-> Relief rainfall| No |
 |History|Not started| No |
 |RE|-> Kosher| No|
+|Spanish|=  Adjectival agreement| No |
 
 ### Subjects not required to be taken down:
 - Art (no exam)
