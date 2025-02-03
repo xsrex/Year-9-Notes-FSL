@@ -33,7 +33,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 |Home Economics|35|
 |Chemistry|85|
 |ICT|-|
-|Biology|!75!|
+|Biology|85|
 |Tech & Design|!45!|
 |French|-|
 |Physics|55|
@@ -76,6 +76,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 - Kev - Mon-03-02 15:46 - _phy.md modified.
 - Kev - Mon-03-02 17:12 - _phy.md modified.
 - Kev - Mon-03-02 17:18 - Changed README.md format
+- Kev - Mon-03-02 18:06 - Created _bio.md.
 
 
 ```
