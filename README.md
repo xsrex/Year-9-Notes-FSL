@@ -28,7 +28,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 - [person (kevin=kev, holly=hol, richard=ric, annalise=ann)] - [Day]-[Date]-[Month] - [update]
 
 ## Updates
-***2025***
+### 2025
 
 ```
 
