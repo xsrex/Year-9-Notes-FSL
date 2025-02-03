@@ -34,7 +34,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 |Biology|!75!|
 |Tech & Design|!45!|
 |French|-|
-|Physics|85|
+|Physics|55|
 
 
 
