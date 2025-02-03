@@ -47,4 +47,10 @@ In particle terms:
 
 In water, the amount of water you displace affects the force of your buoyancy.
 
+### Unbalanced forces
+
+When adding forces, you must take into account their direction as well!
+
+### Gravity
+
   
