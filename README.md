@@ -13,7 +13,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 |Music|-> Setwork| No |
 |Geography|-> Relief rainfall| No |
 |History|Not started| No |
-|RE|-> Kosher| No|
+|RE|-> Kashrut| No|
 |Spanish|=  Adjectival agreement| No |
 
 ### Subjects not required to be taken down:
