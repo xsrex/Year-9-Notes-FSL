@@ -459,3 +459,10 @@ There are three forms of air cooling:
 - Updraughts of warm air push the water droplets even higher and suspend them. Sometimes they're carried so high they freeze
 - Eventually large droplets fall as heavy rain, often with thunder and lightning. This often results in spells of sunshine followed by heavy showers
 
+#### Frontal rainfall
+
+- A warm air mass meets a cold air mass
+- The warm, less dense air is pushed up over the cold, dense air to create a "*front*"
+- The warm vapour condenses into droplets and eventually produces rain
+- The warm, less dense, air cools
+
