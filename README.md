@@ -18,6 +18,26 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 |Home Economics|Not started| No |
 |Chemistry|-> End of unit 1 <-| No |
 
+|Subject|Progress (%)|
+|:-|:-:|
+|English|-|
+|Art|-|
+|Maths|-|
+|Music|-|
+|Geography|85|
+|History|!35!|
+|RE|75|
+|Spanish|-|
+|Home Economics|15|
+|Chemistry|85|
+|ICT|-|
+|Biology|!75!|
+|Tech & Design|!45!|
+|French|-|
+|Physics|85|
+
+
+
 ### Subjects not required to be taken down:
 - Art (no exam)
 - English (soft skill)
@@ -53,6 +73,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 - Ric - Mon-03-02 15:14 - _he-.md modified.
 - Kev - Mon-03-02 15:46 - _phy.md modified.
 - Kev - Mon-03-02 17:12 - _phy.md modified.
+- Kev - Mon-03-02 17:18 - Changed README.md format
 
 
 ```
