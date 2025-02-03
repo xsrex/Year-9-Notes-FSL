@@ -16,6 +16,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 |RE|-> Kashrut| No|
 |Spanish|=  Adjectival agreement| No |
 |Home Economics|Not started| No |
+|Chemistry|-> End of unit 1 <-| No |
 
 ### Subjects not required to be taken down:
 - Art (no exam)
@@ -46,5 +47,6 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 - Kev - Fri-31-01 15:55 - _esp.md created.
 - Kev - Mon-03-01 14:24 - _geo.md modified.
 - Kev - Mon-03-01 14:31 - _geo.md modified.
+- Kev - Mon-03-01 14:40 - _che.md created.
 
 ```
