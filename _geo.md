@@ -478,7 +478,8 @@ Air pressure measures the weight of the air in units called **millibars**. In so
 >
 >If there's little air pushing down, we can say the air pressure is low.
 
-High pressure usually brings good weather while low pressure brings bad weather.
+High pressure usually brings good weather while low pressure brings bad weather. High pressure also makes air sink while low pressure makes air rise.
 
+##### Depressions - LOW pressure (you know what else is low? LOWWWWW)
 
-
+![hi](https://ecn.ac.uk/sites/default/files/inline-images/low-fronts.png)
