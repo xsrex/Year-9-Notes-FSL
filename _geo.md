@@ -466,3 +466,19 @@ There are three forms of air cooling:
 - The warm vapour condenses into droplets and eventually produces rain
 - The warm, less dense, air cools
 
+### Weather systems
+
+A weather system is a unique feature in the atmosphere which is usually associated with a particular type of weather. There are two around the UK. Both are based on differences in air pressure.
+
+#### Air pressure
+
+Air pressure measures the weight of the air in units called **millibars**. In some cases, the air pressure is higher is some places than others.
+
+>If there's a lot of air pushing down, we can say the air pressure is high.
+>
+>If there's little air pushing down, we can say the air pressure is low.
+
+High pressure usually brings good weather while low pressure brings bad weather.
+
+
+
