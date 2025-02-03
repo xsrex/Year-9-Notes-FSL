@@ -483,3 +483,67 @@ High pressure usually brings good weather while low pressure brings bad weather.
 ##### Depressions - LOW pressure (you know what else is low? LOWWWWW)
 
 ![hi](https://ecn.ac.uk/sites/default/files/inline-images/low-fronts.png)
+
+Depressions look like this on a weather map. The thin black lines are called **isobars**. They're like contours but with air pressure. The two black lines which perpendicularly connect with the iso bars are called **fronts**. The one with semicircles and is usually red is known as a warm front. The other one with triangles is called a cold front. The area between both fronts is known as the warm sector.
+
+**Warm front approaching:**
+
+- Stratus clouds appear
+- Continuous rain
+- Dropping pressure
+
+**Warm sector**
+
+- Becomes warmer
+- Stratus clouds fill sky
+- [Light rain/drizzle]
+- Low pressure
+
+**Cold front passes**
+
+- Cooler
+- Cumulus clouds appear
+- Blustery showers occur
+- Rising pressure
+
+##### Anticyclones - High pressure
+
+Anticyclones are high pressure systems in which the air moves downwards towards the Earth's surface. As it sinks, the air compresses and heats, this evaporates any moisture and prevents clouds from forming, The sky is usually clear and sunny. They can be very large (about 3000km wide) which means it gives several days of calm weather. Anticyclones are shown by widely spaces isobars. There are no fronts in anticyclones because there is only one air mass.
+
+|Summer anticyclones|Winter anticyclones|
+|:-|:-|
+|Warm, sunny days, cool nights|Cold nights, dry and bright days|
+|Cloudless|[Clear/very little cloud] evening skies|
+|Light winds|Gentle breezes|
+|Normally dry but heat can create convectional rainfall or thunder storms. Early dew + mist | Morning frost and fog last all day|
+
+### Extreme weather
+#### Hurricanes
+Hurricanes develop when sea temperature is 27<sup>o</sup>C or higher. They require a warm ocean with a depth of >50 $m$ .Warm moist air rises and condensation occurs, releasing MASSIVE (low taper fade?) amounts of energy. This creates an area of low pressure which causes more winds. The tropical storms move West because of easterly winds. The Earth's rotation causes the storm to spin. As long as it is over water the wind speeds up.
+
+What do they bring?
+
+##### Violently strong winds
+
+A tropical storm becomes a hurricance when the wind speeds hit 74+ $mph$ . There are five categories based on wind speed.
+
+**Category 1** - 74-95 $mph$
+
+**Category 2** - 96-110 $mph$
+
+**Category 3** - 111-129 $mph$
+
+**Category 4** - 130-156 $mph$
+
+**Category 5** - 157+ $mph$
+
+Categories
+|1|2|3|4|5|
+|:-|:-|:-|:-|:-|
+|No real structural damage; some flooding|Material damage to building|Structural damage to small houses, inland flooding|Major structural damage and heavy flooding|MASSIVE (low taper fade?) structural damage + heavy floods| MASSIVE (you know it) damage to buildings, small structures blown away|
+
+##### Storm surge
+
+The is the rise in sea level as the storm pushes up and towards the coastline. This can cause cause extensive flooding to lowland areas. This can cause damage and kill people!
+
+![hi](https://s.wsj.net/public/resources/images/OB-VD846_Strorm_F_20121029214902.jpg)
