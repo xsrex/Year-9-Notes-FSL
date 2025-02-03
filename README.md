@@ -17,6 +17,8 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 |Spanish|=  Adjectival agreement| No |
 |Home Economics|Not started| No |
 |Chemistry|-> End of unit 1 <-| No |
+|ICT|-|-|
+
 
 |Subject|Progress (%)|
 |:-|:-:|
@@ -28,7 +30,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 |History|!35!|
 |RE|75|
 |Spanish|-|
-|Home Economics|15|
+|Home Economics|35|
 |Chemistry|85|
 |ICT|-|
 |Biology|!75!|
