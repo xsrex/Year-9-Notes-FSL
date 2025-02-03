@@ -11,7 +11,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 |English|-|-|
 |Maths|-|-|
 |Music|-> Setwork| No |
-|Geography|-> Pressure| No |
+|Geography|-> Unit 4| Yes |
 |History|Not started| No |
 |RE|-> Kashrut| No|
 |Spanish|=  Adjectival agreement| No |
@@ -28,7 +28,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 |Art|-|
 |Maths|-|
 |Music|-|
-|Geography|85|
+|Geography|100|
 |History|!35!|
 |RE|75|
 |Spanish|-|
@@ -79,6 +79,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 - Kev - Mon-03-02 17:12 - _phy.md modified.
 - Kev - Mon-03-02 17:18 - Changed README.md format
 - Kev - Mon-03-02 18:06 - Created _bio.md.
+- Kev - Mon-03-02 20:23 - Finished _geo.md.
 
 
 ```
