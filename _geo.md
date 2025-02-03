@@ -447,5 +447,15 @@ There are three forms of air cooling:
 
 #### Relief rainfall
 
+- Air is forced to rise when it meets a range of hills
+- The air continues to rise and clouds form. Rain eventually falls on the mountains
+- The side of the mountain is drier and is called the rain shadow
+- As the air falls on the other side of the mountains, it warms up and can hold more water vapour
 
+#### Convectional rainfall
+
+- The ground is heated by the Sun, causing moisture to evaporate and rise
+- The air rises rapidly, and the water vapour condenses to form clouds, tall cumulonimbus
+- Updraughts of warm air push the water droplets even higher and suspend them. Sometimes they're carried so high they freeze
+- Eventually large droplets fall as heavy rain, often with thunder and lightning. This often results in spells of sunshine followed by heavy showers
 
