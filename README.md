@@ -2,7 +2,7 @@
 
 ## Intro
 
-Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 / [spring/summer] 2025. Enjoy!
+Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 / [spring/summer] 2025]. Enjoy!
 
 ### Current Subjects:
 |Subject|Notes|Complete?|
