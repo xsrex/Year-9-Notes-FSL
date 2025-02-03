@@ -11,7 +11,7 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of winter 2024 /
 |English|-|-|
 |Maths|-|-|
 |Music|-> Setwork| No |
-|Geography|-> Relief rainfall| No |
+|Geography|-> Pressure| No |
 |History|Not started| No |
 |RE|-> Kashrut| No|
 |Spanish|=  Adjectival agreement| No |
