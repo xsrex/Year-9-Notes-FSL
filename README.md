@@ -18,6 +18,8 @@ Heya! This are the Year 9 Notes for **Friends' School Lisburn** of [winter 2024 
 |Home Economics|Not started| No |
 |Chemistry|-> End of unit 1 <-| No |
 |ICT|-|-|
+|Biology|-> Diagram of organs|No|
+|Tech and design|-|-|
 
 
 |Subject|Progress (%)|
