@@ -547,3 +547,23 @@ Categories
 The is the rise in sea level as the storm pushes up and towards the coastline. This can cause cause extensive flooding to lowland areas. This can cause damage and kill people!
 
 ![hi](https://s.wsj.net/public/resources/images/OB-VD846_Strorm_F_20121029214902.jpg)
+
+## Topic 4 - Crime
+
+### Why are we learning about crime in Geography?
+
+Crimes can be committed locally, nationally and internationally. It is important to understand the effect of these crimes, and to identify how geographical and social patterns can help police to prevent crime. Crime is a big challenge in today's world; both in rural and urban areas. 
+
+**Definition** - **an offence punishable by law**
+
+Geography is important when studying crime because it must have a location, time and a reason. Understanding the patterns can help to:
+
+- See where crimes are most likely to be committed
+- Combat crime
+- Design crime-proof areas
+
+A **crime** is an [action/ommision] which is an offense and is punishable by law
+A **criminal** is someone who has committed a crime
+A **victim** is a person that is [harmed/injured/killed] from a [crime/accident/other [event/action]]
+An **offender** is someone who commits an offense (diddy!1!1)
+A **sentence** is the punishment a judge or magistrate decides should be given to someone (double teaming fr smh ts pmo)
