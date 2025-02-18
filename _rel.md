@@ -167,4 +167,23 @@ Some ways to end slavery could be:
  
 ### 	Kashrut
 
- 
+Kashrut is a series of special food laws, which declare items as **KOSHER** and **NON-KOSHER**. In orthodox households, milk and meat must be separated and cannot be eaten in the same meal.
+
+#### Definitions
+
+**Chewing the cud** - The process of regurgitating plant matter from the first stomach to eat again (food so fire had to eat it again).
+**Kasher** - All blood is drained from the animal and salt is used to declare it kosher.
+**Kashrut** - Jewish dietary laws and practices.
+**Split hooves** - Hooves that split down the middle e.g. goat, cow.
+
+For a meat to be considered kosher it must:
+
+- Be able to chew the cud
+- Have split hooves
+
+For fish to be considered kosher it must:
+
+- Have fins
+- Have scales
+
+Birds are considered kosher while birds of prey are not. Fruit and vegetables are considered kosher but they must be checked for any [bugs/insects] which are not kosher.
