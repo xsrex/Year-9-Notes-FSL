@@ -123,3 +123,44 @@ Several factors contributed to the Armada's defeat:
 - Tactical errors including breaking formation when confronted with fireships
 - Lack of contingency plans when the original strategy failed
 - Severe weather conditions during the retreat
+
+## Source Work Practice - The Spanish Armada (14 marks)
+
+### Primary Sources
+
+#### Source A - King Philip II, talking to survivors of the Armada (1588)
+"I sent you to fight with men, and not the weather. What happened in the English Channel is a disgrace to Spain, but we will have our revenge against that barbaric and godless nation. Elizabeth's forces are no match for our great Armada. Her reign shall be no more."
+
+#### Source B - Inscription on the Armada medal issued by Elizabeth I (1588)
+"God blew with His wind, and they were scattered."
+
+### Source Analysis Questions
+
+#### Question 1: Source A Analysis
+Philip II blamed the defeat of the Armada on the weather and expressed disappointment with his men's performance.
+
+#### Question 2: Source Connection
+Both sources reference weather as a factor in the Armada's defeat and make religious references, with each side claiming divine favor.
+
+#### Question 3: Religious Significance
+Religion played a crucial role in the Spanish Armada conflict. Source A shows Philip II referring to England as a "godless nation," while Source B attributes the Spanish defeat to divine intervention with "God blew with His wind." Beyond these sources, religious tensions formed the foundation of the conflict. Philip, a devout Catholic, considered it his duty to restore Catholicism to Protestant England. Elizabeth's execution of Mary Queen of Scots, a Catholic, further inflamed religious hostilities. Both sides viewed the battle not merely as a military conflict but as a divine judgment on their respective faiths.
+
+#### Question 4: Source A Usefulness Analysis (MADCL Technique)
+
+##### Mode
+The source is a conversation between King Philip II and Armada survivors, making it valuable as a direct exchange between the Spanish monarch and participants in the event.
+
+##### Author
+King Philip II of Spain ordered the attack on England, giving him significant authority on the Spanish perspective, though his position also introduces bias.
+
+##### Date
+Created in 1588 shortly after the Armada's defeat, the source provides contemporary reactions to the event.
+
+##### Content
+The source reveals Philip's attribution of blame ("I sent you to fight with men, not the weather"), his animosity toward England ("barbaric and godless nation"), and his continued hostility ("we will have our revenge").
+
+##### Limitations
+The source presents only the Spanish perspective and shows clear bias against England. Philip II wasn't personally present during the battle, limiting his firsthand knowledge of events.
+
+#### Conclusion on Source Usefulness
+Source A provides valuable insight into the Spanish monarchy's official reaction to the defeat and reveals the continuing hostility toward England. While limited by Philip's bias and absence from the actual battle, it remains a useful primary source for understanding Spanish perspectives on the Armada's failure and the religious dimensions of the conflict.
