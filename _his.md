@@ -164,3 +164,103 @@ The source presents only the Spanish perspective and shows clear bias against En
 
 #### Conclusion on Source Usefulness
 Source A provides valuable insight into the Spanish monarchy's official reaction to the defeat and reveals the continuing hostility toward England. While limited by Philip's bias and absence from the actual battle, it remains a useful primary source for understanding Spanish perspectives on the Armada's failure and the religious dimensions of the conflict.
+
+# Unit 4a - The gunpowder plot
+
+## The Scruffy Stuart
+
+### The End of the Tudor Era
+
+In 1603, Queen Elizabeth I became seriously ill with pneumonia. Despite her illness, she refused to rest properly and insisted on standing upright for 15 hours to demonstrate her strength. Eventually, she became unable to eat or speak, spending her days and nights lying on cushions and staring at the fire.
+
+After reigning for 44 years without a husband or children, Elizabeth's advisors grew concerned about succession. When they suggested her third cousin, King James VI of Scotland, as her successor, the dying queen simply raised her hand and nodded in agreement.
+
+The following morning, a messenger galloped to Scotland to inform James VI of the news. Weeks later, he arrived in London—tired, dirty, and injured from a fall during his journey—and became James I of England. This transition marked a profound change in the English monarchy as the Tudor era ended and the Scottish Stuart era began.
+
+### James I: Fact File
+
+- **Name**: James Stuart, Queen Elizabeth's third cousin
+- **Age**: 36
+- **Titles**: King James I of England and King James VI of Scotland
+- **Early Career**: 
+  - Successfully controlled powerful Scottish lords and highland chiefs
+  - Divided Scotland into districts with appointed royal judges
+  - Invited foreign weavers to improve Scottish textile industry
+  - Encouraged mining of gold, silver, and coal
+  - Maintained control of the Scottish (Protestant) Church
+- **Intelligence**: Wrote several books, particularly on witchcraft and the dangers of tobacco
+- **Royal Philosophy**: Believed in the "Divine Right of Kings"—that God had chosen him as monarch and he could do no wrong
+- **Personal Habits**: 
+  - Wore padded clothes for protection
+  - Rarely changed damaged clothing, preferring to layer new items over old
+  - Poor hygiene—never washed, used sleeves as handkerchiefs
+  - Known for swearing and picking his nose
+- **Historical Assessment**: Sir Anthony Weldon reportedly wrote in 1625 that James was "crafty and cunning in small things... but a fool in important matters"
+
+### Religious Tensions
+
+James recognized that religion would be a significant challenge, as it had been for English monarchs for decades. Despite Elizabeth's "middle way" compromise, religious conflicts persisted. Some Protestants left England after meeting James, while Catholics grew angry when he ordered their "troublesome priests" to leave the country. This religious tension would eventually lead to one of history's most infamous assassination attempts—the Gunpowder Plot.
+
+### Succession Questions
+
+The succession of James raised several important questions:
+
+- Why was the King of Scotland asked to take over after Queen Elizabeth's death?
+  - James was blood-related to Elizabeth as her third cousin and had demonstrated effective governance in Scotland.
+
+- The accuracy of royal portraits was often questionable, as kings might have instructed artists to portray them more favorably than reality.
+
+- The "Divine Right of Kings" was a political and religious doctrine asserting that monarchs derived their authority directly from God. This concept was particularly appealing to James I as it reinforced his authority and suggested his decisions could not be questioned.
+
+### James and Parliament
+
+James quickly styled himself as King of Great Britain, though England and Scotland continued to operate independently. In 1606, he established the first Union Flag, combining elements from both countries.
+
+At Hampton Court Palace in 1604, James met with Church leaders and commissioned a new English translation of the Bible. The King James Bible remained unchanged for 300 years and became history's most printed book.
+
+Though James needed Parliament to help govern England, he resisted their attempts to question his authority. Their relationship deteriorated significantly, and when Parliament refused to collect taxes for him, James dismissed them for ten years. He raised money through alternative means—selling land and titles—but his excessive spending left England nearly bankrupt by his death in 1625.
+
+#### Parliament's Resistance to Divine Right
+
+Parliament had several reasons to oppose the Divine Right of Kings:
+- The doctrine prevented questioning of the king's intentions
+- It undermined Parliament's legislative authority
+- It disrupted the balance of power between monarchy and legislature
+
+#### The King James Bible
+
+The creation of a new Bible translation was politically significant for James I. By commissioning his own translation, the king:
+- Created a lasting legacy
+- Established religious authority
+- Ensured consistent religious interpretation across the kingdom
+- Reinforced his image as a learned and pious ruler
+
+### The Gunpowder Plot
+
+On November 5, 1605, one of English history's most significant events occurred—a failed revolution that continues to be commemorated more than 400 years later. This dramatic episode featured a plot to assassinate the king using gunpowder, followed by betrayal, imprisonment, torture, and executions.
+
+#### Motivations
+
+In 1605, King James enacted laws against Catholics, even ordering extremist priests to leave England or face execution. A small group of Catholic zealots (Jesuits) decided to assassinate the king, hoping his successor would treat Catholics more favorably. They planned to strike on November 5, the opening day of Parliament, when the king and most powerful figures in England would be gathered at Westminster.
+
+#### The Conspirators
+
+The plot was led by Robert Catesby, described as brave and handsome but having gambled away much of his family fortune. His co-conspirators included Tom and Robert Winter, Christopher and John Wright, Thomas Percy, and Guy (Guido) Fawkes—an experienced soldier skilled with explosives who would be responsible for igniting the gunpowder placed beneath Parliament.
+
+After the planned explosion, the conspirators intended to capture James's young daughter Elizabeth and install her as a puppet monarch under Catholic guidance.
+
+#### Analysis of the Plot
+
+The plotters hoped to assassinate King James I and replace him with his daughter Elizabeth, whom they planned to influence toward Catholicism. However, their chances of success were slim:
+- The plan lacked sophistication and careful coordination
+- It would likely provoke significant public anger
+- Even if successful in the assassination, securing Elizabeth and establishing Catholic control would have been extraordinarily difficult
+
+Had the plot succeeded, Elizabeth's position would have been precarious:
+- Catholic lords might attempt to force her conversion
+- Protestants would resist a Catholic monarch or any perceived Catholic influence
+- The young queen would be caught between competing religious factions
+
+#### Historical Context
+
+The Gunpowder Plot represented the culmination of religious tensions that had been building throughout the Tudor period. The illustration of the plotters (Source A) is noted to be likely inaccurate, as the artist probably never saw the actual conspirators. This reminds us that much of our historical understanding comes through potentially biased or incomplete representations.
