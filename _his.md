@@ -342,3 +342,62 @@ Historians remain divided regarding whether the Gunpowder Plotters were framed. 
 - His documented anti-Catholic sentiments provide potential motivation for framing Catholics
 - The suspicious timing of arrests and questionable confessions merit critical examination
 - The deaths of key figures at convenient moments warrant scrutiny
+
+# Unit 4b - The English Civil War
+
+## The English Civil War
+
+### Origins of the Conflict
+
+In 1642, thousands of Englishmen went to war. They weren't fighting foreign enemies like the French or Spanish, but instead were at war with themselves! This conflict is known as a **civil war**. What caused the two sides to turn against each other and how did it end?
+
+On one side were King Charles I (James I's son) and his followers, known as **Royalists**. On the other side were the men of Parliament and their followers, known as **Parliamentarians**. For years, the English Parliament had worked with the monarch to make laws, raise taxes and discuss wars; now, they were at war **with** their king. Charles I (and his father James I) had argued with Parliament and believed their purpose was to serve the monarchy. Parliament, however, saw their role very differently.
+
+### Opposing Viewpoints in 1642
+
+Various people in England held different opinions about the conflict:
+
+- **King Charles I:** "I am the king and I can do as I like. This is my divine right because God has appointed me. Parliament thinks I can't control the king by keeping much of my money. Parliament must be stopped... even if it means war."
+
+- **William Cavendish, a rich lord:** "If Charles needs money, Parliament must get it for him. He is their king and God has put him on the throne. Parliament mustn't allow a king to act like a king. But Parliament doesn't give Charles enough money and even ordered the execution of two of his personal advisors! Parliament must be stopped... even if it means war."
+
+- **John Hampden, a Member of Parliament:** "Running the country is a difficult job and Parliament has been helping kings and queens for years. We like helping to make decisions but Charles only uses us to collect taxes for him. When we refused to get him any more money, he sent us all home for 11 years and ruled without us. He only called us back because a Scottish army marched south and he needed money to raise an army. The reason they invaded was Charles' fault too because he'd told the Scots to use a new prayer book they didn't like. Charles must change his ways... even if it means war."
+
+- **Harry Vane, a Puritan:** "I believe in a religion that's more 'pure'. We want Christianity and our government to be 'purified' of any remaining Catholic practices. It sounds strange, but the most important power in this country now is Parliament, not Charles. Catholics everywhere, including Charles' wife Henrietta Maria, are trying to make England Catholic. We must stop them... even if it means war."
+
+- **Laura Kibble, a farm worker:** "I work very hard to make a good living, but Charles keeps taxing me and making me most recent taxes were a 'ship tax' even though I live inland near the sea. He calls it a ship tax. Charles might be king but taxes must be fair."
+
+- **Nicholas Farrell, a merchant:** "I will have to fight for whichever side the landowner I rent from tells me to. He's appointed by God and I don't want to go against him. But if I have to fight, it is against Charles, they might kill me. They think he deserves it. Even if it means war."
+
+### Escalation to War
+
+The final straw came when Parliament sent Charles a long list of complaints against him. Furious, Charles sent 300 soldiers to London to arrest the 5 most troublesome MPs, but they had escaped. Charles left London to raise his army in the north, while the Queen (Henrietta Maria from France) headed to the Netherlands to sell the Crown Jewels to pay for the war! Meanwhile, Parliament started getting their army together. England was on the **brink of war**.
+
+## The Battle Lines Form
+
+### Match of the Day: Roundheads V Cavaliers
+
+The Royalists were known as **Cavaliers**. Cavalier comes from the Italian word 'cavallo' meaning horse or horseback. The Cavaliers were known for their long hair and stylish clothes.
+
+The Parliamentarians were nicknamed **Roundheads** because of their simple, short bowl-cut hairstyles.
+
+On 22nd August 1642, King Charles I gathered his army in a field near Nottingham and struck his Royal Standard (a big flag) into the ground, declaring the official start of the Civil War. But who would dare to fight their King, and how did the two sides match up?
+
+### Military Forces
+
+Both armies had similar components:
+
+- **Cavalry**: Rich men on horseback wearing steel breastplates and leather coats
+- **Infantry**: Ordinary pikemen or musketeers on foot
+
+**Armoured pikemen** stood at the front with 5m poles tipped with steel which they dug into the ground. **Musketeers** carried a big clumsy gun lit by burning rope and gunpowder. Hopefully it fired a ball up to 400m but was slow, complicated and dangerous!
+
+### Historical Analysis
+
+The English Civil War might have been avoided through different decisions:
+
+- The King could have ruled collaboratively with Parliament and given them some decision-making power
+- King Charles bears significant responsibility for the conflict because he failed to understand Parliament's role and treated them poorly
+- Charles strongly believed in the Divine Right of Kings and refused to compromise
+
+The conflict represented a fundamental disagreement about governance - whether ultimate power should rest with the monarch or be shared with Parliament, setting the stage for Britain's constitutional development.
