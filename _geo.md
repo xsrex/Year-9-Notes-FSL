@@ -567,3 +567,38 @@ A **criminal** is someone who has committed a crime
 A **victim** is a person that is [harmed/injured/killed] from a [crime/accident/other [event/action]]
 An **offender** is someone who commits an offense (diddy!1!1)
 A **sentence** is the punishment a judge or magistrate decides should be given to someone (double teaming fr smh ts pmo)
+
+## Topic 5 - Our changing cities
+
+In the past 100-200 years, buildings have become larger and land has been terraformed. This is an example of urbanisation.
+
+### Urban, Rural and Suburban
+
+- Urban areas tend to have a large number of services and a lower residential density than suburban areas.
+- Suburban areas have a low number of services, but a higher population density.
+- Rural areas have both a low population density and services. Farms and fields typically reside in rural areas.
+
+### Settlements
+
+A settlement is a place where people have a permanent home. Prehistoric humans do not live in settlements, and they used to be [hunters/gatherers]. Then they discovered farming, which allowed them to produce their food in one [place/area]
+
+Settlements can be small or large. Here are some classifications:
+
+#### Hamlett
+Hamlett are the smallest type of settlements. But as the town grows economically, more services begin to be created. For example ...
+
+#### Small village
+[continuation from hamlett] ... churches, a pub or two, village shops, and post offices ...
+
+#### Large village
+[continuation from Small village] ... a primary school, small supermarkets, a health centre, cafes ...
+
+#### Small town
+[continuation from Large village] ... a library, clothes shops, shoe shops, banks, restaurants, hotels ...
+
+#### Large town 
+[continuation from Small town] ... shopping centres, secondary schools, colleges, cinemas, theatres, sports centres, museums ...
+
+#### City
+[continuation from Large town] ... department stores, cathedral, university, football stadium, airport ...
+
