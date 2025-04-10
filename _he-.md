@@ -37,3 +37,33 @@ Protein is an important macronutrient. The building blocks of proteins are calle
 
 ### HBV + LBV
 Protein sources can be classified as **high biological value** or **low biological value** depending on their amino acids:
+
+|HBV sources|LBV sources|
+|:-|:-|
+|Chicken|Beans|
+|Beef|peas|
+|Pork|lentils|
+|eggs|nuts|
+|milk|seeds
+|cheese| - |
+|yoghurt| - |
+|soya beans| - |
+|quinoa| - |
+
+Plant sources of protein do not contain sufficient levels of one or more of the amino acids required by humans.
+
+We can overcome this problem by taking a mixture of proteins from plant foods together. They complement each other by supplying the full range of essential amino acids.
+
+## Fat
+
+### Functions
+ - Supplies energy
+ - Helps insulate the body
+ - Protects major organs e.g. heart kidney
+ - Makes all body cells
+ - Provides fat-soluble vitamins A, D, E, K
+ - Provides essential fatty acids
+### Type of fat
+Saturated - Solid at room temp.
+### Sources of fat - saturated
+### sources of fat - unsaturated
