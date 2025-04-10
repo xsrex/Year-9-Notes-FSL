@@ -401,3 +401,12 @@ The English Civil War might have been avoided through different decisions:
 - Charles strongly believed in the Divine Right of Kings and refused to compromise
 
 The conflict represented a fundamental disagreement about governance - whether ultimate power should rest with the monarch or be shared with Parliament, setting the stage for Britain's constitutional development.
+
+### Civil affairs
+
+People didn't actually choose the side they fought for. It often depended on which army reached their town or village first, or the side their local landowner supported. Different parts of the family could be on different sides.
+
+### Cavaliers / The Roundheads
+The Cavaliers were rich lords and country gentlemen along North and South-West England and Wales. They wore red sashes.
+
+The Roundheads were merchants, businessmen and Puritans
