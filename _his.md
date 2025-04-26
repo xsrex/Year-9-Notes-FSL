@@ -409,4 +409,66 @@ People didn't actually choose the side they fought for. It often depended on whi
 ### Cavaliers / The Roundheads
 The Cavaliers were rich lords and country gentlemen along North and South-West England and Wales. They wore red sashes.
 
-The Roundheads were merchants, businessmen and Puritans
+The Roundheads were merchants, businessmen and Puritans located in London and major towns and ports. They wore yellow sashes.
+
+There were in total 635 different sashes in the Civil War, with both sides winning, drawing, and losing many encounters. 
+
+## The New Model Army
+
+The first big battle of the civil war took place in **Edgehill** in 1642. It ended in a draw. Parliament was shocked by how poorly its soldiers were prepared. In the panic, troops fled the field and then there was total chaos. In contrast, the King's Cavalry was disclipined and well prepared. Parliament turned to a man called **Oliver Cromwell** from Cambridgeshire. His task was to create the first professional army in England. This **New Model Army** was to live by a strict code of conduct with severe punishment for breaking the rules. All of this paid off, as Parliament won two huge battles at Marston Moor (1644) and Naseby (1645) where they routed the King's forces. The King ended up surrendering to Scotland, hoping to find safe haven along the North of the border.
+
+### Punishments
+
+|Action|Punishment|
+|:-|:-|
+|Speak disrespectfully about Christian Faith|Tongue bored with a red hot iron|
+|No man shall bear arms against any officer| - |
+|Speak disrespectfully againsy Parliamentarians| Death |
+|Abusive behaviour| Death |
+|Robbery of value over 12 pence| Death |
+|Extort money or food from civilians| Death |
+|Wrong the Farmers| Death |
+|No man should be a mile away from camp without license| Death |
+|Anyone who abuses| Death, treated like an enemy of discipline |
+|To fly(vanish) from battle| Death |
+|Discarding arms| Death |
+
+The **Lawes of the Army** was so strict as to make every soldier fully obey the Parliament and avoid ruining their reputation through harming locals.
+
+Oliver Cromwell wanted anyone capable of fighting. This was so he could havd strong and experienced men rather than nobles.
+
+The New Model Army was a huge success! They had won the civil war, and their men were much more loyal and disiciplined than the Royalists, which made them more manoeuverable.
+
+|Royalist Weaknesses|Parliamentarian Strengths|
+|:-|:-|
+|Confronted the Model Army|Surprise Attacked the Royalists|
+|King's army was split in half|Great attacking spot|
+|Wasn't aware of the Model Army|Disciplined|
+|Weren't worried|Hid in bushes|
+|-|Put Cromwell in charge|
+
+## King Charles I
+
+The Royalists had lost the Civil War, and at 2pm, 30th Jan 1649, King Charles I had his head chopped off. By 1648, Charles I's troops had been beaten and the King was held prisoner. However, the Scots invaded England on his order, and the Second Civil war began. It didn't last long however, as the Parliamentarians were now far too strong. Many in parliament no longer trusted the King, and met to discuss what to do.
+
+240/286 MPs felt they should give the King another chance.
+
+Those 240 were prevented from entering the next meeting.
+
+26/46 MPs put the King on trial for treason.
+
+20th Jan 1649, 135 laywers and judges were chosen to try him.
+
+- Revolution: Overthrowing a [monarch/government] where something revolutionary (ha. ha.) happens.
+- Death warrant: Documents which confirm a death sentences
+- Tyrant: A cruel ruler
+- Execution: Killed by the government
+- Desolation: To be left alone
+
+Cromwell's attitude to the trial is that he is doing the Nation's work by convicting the King of treason.
+
+Only 59/135 judges signed the death warrant. Even if the King was doing unlawful actions they decided even then he should not be punished as much.
+
+In Source D
+
+> D: "I would know by what power I an called here. I want to know by what authority, I mean lawful. There are many unlawful authorities in the world, thieves and robbers on the highway... Remember, I am your king, your lawful king... I have a trust committed to me by God, By old and lawful descent; I will not betray it to answer a new unlawful authority."
